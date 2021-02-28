@@ -154,6 +154,37 @@ const dictonnaries = {
       "yesterday": "Вчера"
     }
   },
+   "tr": {
+    "reset": "Aralığı sıfırla",
+    "submit": "Kaydet",
+    "previousMonth": "Önceki Ay",
+    "nextMonth": "Sonraki Ay",
+    "previousYear": "Önceki Yıl",
+    "nextYear": "Sonraki Yıl",
+    "quarter": "Çeyrek",
+    "panels": {
+      "range": "Aralık",
+      "week": "Hafta",
+      "month": "Ay",
+      "quarter": "Çeyrek",
+      "year": "Yıl"
+    },
+    "presets": {
+      "custom": "Aralığı özelleştir",
+      "forever": "Başlangıçtan beri",
+      "last7days": "Son 7 gün",
+      "last30days": "Son 30 gün",
+      "last90days": "Son 90 gün",
+      "last365days": "Son 365 gün",
+      "next365days": "Son 365 gün",
+      "next90days": "Sonraki 90 gün",
+      "next30days": "Sonraki 30 gün",
+      "next7days": "Gelecek Hafta",
+      "today": "Bugün",
+      "tomorrow": "Yarın",
+      "yesterday": "Dün"
+    }
+  },
 }
 
 export default dictonnaries
